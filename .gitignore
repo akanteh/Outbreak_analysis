@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Raw/confidential data
+data/raw/
+data/private/
+
+# BEAST large/intermediate files
+*.log
+*.trees
+*.state
+
+# Temporary files
+*.tmp
+*.temp
+~$*
